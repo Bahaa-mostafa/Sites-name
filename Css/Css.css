@@ -1,0 +1,22 @@
+.bom {
+    height: 100vh;
+    background-color: rgb(252, 233, 210);
+
+}
+.bom .input .button {
+    text-align: center;
+}
+.bom .input .btn {
+    padding: 5px 35px;
+    margin-bottom: 30px;
+}
+.bom .table .body .btn1 {
+    background-color: olivedrab;
+    color: white;
+    padding: 7px 20px;
+    border-radius: 6px;
+    border: none;
+}
+.bom .table .body .btn i{
+    color: white;
+}
